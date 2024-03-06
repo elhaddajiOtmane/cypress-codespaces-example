@@ -5,3 +5,4 @@ Setup based on https://github.com/cypress-io/cypress-documentation/issues/2956#i
 - Click link https://localhost:8080
 - Login using `MUST_BE_SOMETHING` as password
 - Run `yarn cy open`
+- Run `npx cypress run`
